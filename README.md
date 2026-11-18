@@ -41,6 +41,19 @@ Repositoryet inneholder Python-kode, bilder av robotkonstruksjonen, testbaner og
 
 [Se LEGO SPIKE-prosjektet på GitHub](https://github.com/Hafizullahkharotai/LEGO-SPIKE-Python-Robot)
 
+
+### Helsebot – LEGO-basert helseassistentrobot
+
+Et tverrfaglig gruppeprosjekt gjennomført i emnet IDATG1004 – Teambasert samhandling ved NTNU Gjøvik.
+
+Prosjektet omfatter utvikling og dokumentasjon av en LEGO-basert robotprototype, med fokus på mekanisk konstruksjon, simulert hjerte-lunge-redning og samarbeid i en ingeniørgruppe.
+
+Arbeidet ga praktisk erfaring med prototyputvikling, teknisk dokumentasjon, problemløsning og bruk av Overleaf og LaTeX.
+
+**Teknologier og verktøy:** LEGO SPIKE Prime, robotkonstruksjon, Overleaf, LaTeX og GitHub.
+
+[Se Helsebot-prosjektet på GitHub](https://github.com/Hafizullahkharotai/Helsebot-LEGO-SPIKE-Project)
+
 ## Faglige interesser og mål
 
 Jeg ønsker å videreutvikle kompetansen min innen programvareutvikling, cybersikkerhet og utvikling av pålitelige digitale systemer.
