@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hafizullah Kharotai
 
-<!--
-**Hafizullahkharotai/Hafizullahkharotai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Dataingeniørstudent | NTNU Gjøvik
 
-Here are some ideas to get you started:
+Velkommen til GitHub-porteføljen min!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jeg studerer dataingeniør ved Norges teknisk-naturvitenskapelige universitet (NTNU) i Gjøvik. Gjennom studiet utvikler jeg kunnskap og praktiske ferdigheter innen programmering, programvareutvikling og teknologisk problemløsning.
+
+Jeg har særlig interesse for cybersikkerhet, programvareutvikling og hvordan digitale løsninger kan bidra til å løse praktiske utfordringer i samfunnet.
+
+## Teknisk kompetanse
+
+**Programmeringsspråk**
+- Java – objektorientert programmering
+- Python – programmering, automatisering og robotstyring
+
+**Teknologier og verktøy**
+- Git og GitHub – versjonskontroll og prosjektdokumentasjon
+- IntelliJ IDEA – Java-utvikling
+- LEGO SPIKE Prime – robotprogrammering og sensorstyring
+- Overleaf og LaTeX – teknisk dokumentasjon
+
+**Faglige områder**
+- Objektorientert programmering
+- Algoritmer og problemløsning
+- Datastrukturer
+- Sensorbasert robotnavigasjon
+- Grunnleggende programvaretesting
+
+## Utvalgte prosjekter
+
+### LEGO SPIKE Prime – Robotnavigasjon med Python
+
+Et praktisk robotprosjekt gjennomført som en del av dataingeniørstudiet ved NTNU.
+
+Prosjektarbeidet omfatter programmering av LEGO SPIKE Prime-roboter med fokus på sensorbasert navigasjon, linjefølging, hinderdeteksjon og motorstyring.
+
+Repositoryet inneholder Python-kode, bilder av robotkonstruksjonen, testbaner og teknisk dokumentasjon.
+
+**Teknologier:** Python, LEGO SPIKE Prime, fargesensorer, avstandssensorer og motorstyring.
+
+[Se LEGO SPIKE-prosjektet på GitHub](https://github.com/Hafizullahkharotai/LEGO-SPIKE-Python-Robot)
+
+## Faglige interesser og mål
+
+Jeg ønsker å videreutvikle kompetansen min innen programvareutvikling, cybersikkerhet og utvikling av pålitelige digitale systemer.
+
+Målet mitt er å kombinere teoretisk kunnskap med praktisk erfaring gjennom studieprosjekter, programmering og kontinuerlig læring.
+
+Denne GitHub-profilen dokumenterer prosjektene mine og utviklingen min som dataingeniørstudent.
